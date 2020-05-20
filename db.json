@@ -1,0 +1,51 @@
+{
+  "ecosystems": [
+    {
+      "title": "We provide tenant experience for agile workspaces",
+      "description": "The Technology Layer for the build worls",
+      "id": 1
+    },
+    {
+      "title": "reibungslos, rechtssicher und zukunftsfähig.",
+      "description": "The Technology Layer for the build worls",
+      "id": 2
+    },
+    {
+      "title": "Smart Spaces Solutions. All building systems in one platform",
+      "description": "The Technology Layer for the build worls",
+      "id": 3
+    }
+  ],
+  "services": [
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 1
+    },
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 2
+    },
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 3
+    },
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 4
+    },
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 5
+    },
+    {
+      "title": "Dedicated solutions",
+      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+      "id": 6
+    }
+  ]
+}
