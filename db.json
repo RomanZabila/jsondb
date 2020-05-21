@@ -1,18 +1,75 @@
 {
-  "ecosystems": [
+  "news": [
     {
-      "title": "We provide tenant experience for agile workspaces",
-      "description": "The Technology Layer for the build worls",
+      "title": "Dedicated solutions in your property and manage project",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "tags": ["Smart Home", "Implementation"],
       "id": 1
     },
     {
-      "title": "reibungslos, rechtssicher und zukunftsfähig.",
-      "description": "The Technology Layer for the build worls",
+      "title": "Dedicated solutions in your property and manage project",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "tags": ["Smart Home", "Implementation"],
       "id": 2
     },
     {
-      "title": "Smart Spaces Solutions. All building systems in one platform",
-      "description": "The Technology Layer for the build worls",
+      "title": "Dedicated solutions in your property and manage project",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "tags": ["Smart Home", "Implementation"],
+      "id": 3
+    },
+    {
+      "title": "Dedicated solutions in your property and manage project",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "tags": ["Smart Home", "Implementation"],
+      "id": 4
+    }
+  ],
+  "careers": [
+    {
+      "title": "Senior UX/UI",
+      "place": "Berlin",
+      "sex": "(m/w/x)",
+      "id": 1
+    },
+    {
+      "title": "Senior UX/UI",
+      "place": "Berlin",
+      "sex": "(m/w/x)",
+      "id": 2
+    }
+  ],
+  "partners": [
+    {
+      "title": "Ogulo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "link": "https://www.google.com/",
+      "id": 1
+    },
+    {
+      "title": "Avenga",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "link": "https://www.google.com/",
+      "id": 2
+    },
+    {
+      "title": "Timify",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "link": "https://www.google.com/",
+      "id": 3
+    }
+  ],
+  "ecosystems": [
+    {
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "id": 1
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "id": 2
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
       "id": 3
     }
   ],
@@ -46,6 +103,23 @@
       "title": "Dedicated solutions",
       "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
       "id": 6
+    }
+  ],
+  "team": [
+    {
+      "name": "Dr. Alexander Reichhuber",
+      "description": "Co-Founder and Managing Director",
+      "id": 1
+    },
+    {
+      "name": "Markus Keller",
+      "description": "Co-Founder and Managing Director",
+      "id": 2
+    },
+    {
+      "name": "Stefan Keller",
+      "description": "Director Products",
+      "id": 3
     }
   ]
 }
