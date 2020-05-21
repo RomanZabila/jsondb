@@ -73,53 +73,55 @@
       "id": 3
     }
   ],
-  "services": [
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 1
-    },
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 2
-    },
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 3
-    },
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 4
-    },
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 5
-    },
-    {
-      "title": "Dedicated solutions",
-      "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
-      "id": 6
-    }
-  ],
-  "team": [
-    {
-      "name": "Dr. Alexander Reichhuber",
-      "description": "Co-Founder and Managing Director",
-      "id": 1
-    },
-    {
-      "name": "Markus Keller",
-      "description": "Co-Founder and Managing Director",
-      "id": 2
-    },
-    {
-      "name": "Stefan Keller",
-      "description": "Director Products",
-      "id": 3
-    }
-  ]
+  "homeInfo": {
+    "services": [
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 1
+      },
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 2
+      },
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 3
+      },
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 4
+      },
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 5
+      },
+      {
+        "title": "Dedicated solutions",
+        "description": "BeyondBrix supports in developing digital real estate activities, considering value creation, customer experience and technology",
+        "id": 6
+      }
+    ],
+    "team": [
+      {
+        "name": "Dr. Alexander Reichhuber",
+        "description": "Co-Founder and Managing Director",
+        "id": 1
+      },
+      {
+        "name": "Markus Keller",
+        "description": "Co-Founder and Managing Director",
+        "id": 2
+      },
+      {
+        "name": "Stefan Keller",
+        "description": "Director Products",
+        "id": 3
+      }
+    ]
+  }
 }
