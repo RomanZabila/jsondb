@@ -25,7 +25,7 @@
           "type": 1
         }
       ],
-      "background": "https://via.placeholder.com/1200x500",
+      "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
       "tags": ["Smart Home", "Implementation"],
       "id": 1
     },
@@ -54,7 +54,7 @@
           "type": 1
         }
       ],
-      "background": "https://via.placeholder.com/1200x500",
+      "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
       "tags": ["Smart Home", "Implementation"],
       "id": 2
     },
@@ -83,7 +83,7 @@
           "type": 1
         }
       ],
-      "background": "https://via.placeholder.com/1200x500",
+      "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
       "tags": ["Smart Home", "Implementation"],
       "id": 3
     }
