@@ -124,15 +124,21 @@
   ],
   "ecosystems": [
     {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "title": "We provide tenant experience for agile workspaces",
+      "description": "THE TECHNOLOGY LAYER FOR THE BUILD WORLDS",
+      "background": "https://via.placeholder.com/1200x500",
       "id": 1
     },
     {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "title": "We provide tenant experience for agile workspaces",
+      "description": "THE TECHNOLOGY LAYER FOR THE BUILD WORLDS",
+      "background": "https://via.placeholder.com/1200x500",
       "id": 2
     },
     {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "title": "We provide tenant experience for agile workspaces",
+      "description": "THE TECHNOLOGY LAYER FOR THE BUILD WORLDS",
+      "background": "https://via.placeholder.com/1200x500",
       "id": 3
     }
   ],
