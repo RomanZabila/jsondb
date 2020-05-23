@@ -6,23 +6,23 @@
       "text": [
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "highlighted"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         }
       ],
       "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
@@ -35,23 +35,23 @@
       "text": [
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "highlighted"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         }
       ],
       "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
@@ -64,23 +64,23 @@
       "text": [
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "highlighted"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 1
+          "type": "common"
         }
       ],
       "background": "https://via.placeholder.com/1200x500", "author": {"name": "Dr. Alexander Reichhuber", "position": "Bauwens digital GmbH"},
@@ -97,19 +97,19 @@
       "text": [
         {
           "content": "Beschreibung",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "title"
         },
         {
           "content": "Beschreibung",
-          "type": 1
+          "type": "common"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "title"
         }
       ]
     },
@@ -121,19 +121,19 @@
       "text": [
         {
           "content": "Beschreibung1",
-          "type": 1
+          "type": "title"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "common"
         },
         {
           "content": "Beschreibung1",
-          "type": 1
+          "type": "title"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": 2
+          "type": "common"
         }
       ]
     }
