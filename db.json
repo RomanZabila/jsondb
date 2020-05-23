@@ -90,16 +90,52 @@
   ],
   "careers": [
     {
+      "id": 1,
       "title": "Senior UX/UI",
       "place": "Berlin",
       "sex": "(m/w/x)",
-      "id": 1
+      "text": [
+        {
+          "content": "Beschreibung",
+          "type": 1
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "type": 2
+        },
+        {
+          "content": "Beschreibung",
+          "type": 1
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "type": 2
+        }
+      ]
     },
     {
+      "id": 2,
       "title": "Senior UX/UI",
       "place": "Berlin",
       "sex": "(m/w/x)",
-      "id": 2
+      "text": [
+        {
+          "content": "Beschreibung1",
+          "type": 1
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "type": 2
+        },
+        {
+          "content": "Beschreibung1",
+          "type": 1
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "type": 2
+        }
+      ]
     }
   ],
   "partners": [
