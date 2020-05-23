@@ -97,19 +97,19 @@
       "text": [
         {
           "content": "Beschreibung",
-          "type": "common"
+          "type": "title"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": "title"
+          "type": "common"
         },
         {
           "content": "Beschreibung",
-          "type": "common"
+          "type": "title"
         },
         {
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "type": "title"
+          "type": "common"
         }
       ]
     },
