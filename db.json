@@ -106,18 +106,21 @@
     {
       "title": "Ogulo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "logo": "https://via.placeholder.com/200x100",
       "link": "https://www.google.com/",
       "id": 1
     },
     {
       "title": "Avenga",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "logo": "https://via.placeholder.com/200x100",
       "link": "https://www.google.com/",
       "id": 2
     },
     {
       "title": "Timify",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "logo": "https://via.placeholder.com/200x100",
       "link": "https://www.google.com/",
       "id": 3
     }
